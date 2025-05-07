@@ -1,0 +1,1 @@
+console.log('TS ready for work');
